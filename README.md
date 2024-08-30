@@ -6,4 +6,6 @@ NPM     : 2306221762
 
 Kelas   : PBP D
 
-Hobi: Procrastinate
+Hobi    : Procrastinate
+
+Jurusan : Ilmu Komputer
